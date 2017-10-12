@@ -17,7 +17,7 @@ public class Nomina {
     public static void main(String[] args) {
        
         Consultor consultor= new Consultor("Mirar", 1);
-        Administrad
+ 
     }
     
 }
